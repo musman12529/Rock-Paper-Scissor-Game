@@ -1,6 +1,6 @@
 # Rock-Paper-Scissors Game
 
-![Rock-Paper-Scissors](images/logo.jpg)
+
 
 ## Description
 
@@ -14,9 +14,7 @@ This is a simple Rock-Paper-Scissors game implemented using HTML, CSS, and JavaS
 4. The game will display the result, whether you win, lose, or it's a tie.
 5. Your score will be updated accordingly.
 
-## Preview
 
-![Game Preview](images/wallpaper.jpg)
 
 ## Score
 
