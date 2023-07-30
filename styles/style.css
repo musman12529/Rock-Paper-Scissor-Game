@@ -1,0 +1,73 @@
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+
+
+    color: white;
+}
+
+.img{
+    width: 200px;
+    margin-bottom: 30px;
+    border-radius: 100px;
+    margin-top: 10px;
+    
+}
+.pick button{
+    
+    margin-left: 50px;
+    border-radius: 150px;
+    border: solid;
+    border-color: yellow;
+    background-color:  rgba(0, 0, 0, 0.5);
+    
+}
+
+.r{
+    width: 170px;
+    height: 150px;
+    padding: 10px;
+    
+}
+.pick button:hover{
+    background-color: rgb(107, 106, 106);
+    cursor: pointer;
+}
+
+.move{
+    font-size: 35px;
+    margin-bottom: 20px;
+
+    
+}
+.move-div{
+    border: solid;
+    background-color:rgba(0, 0, 0, 0.5) ;
+    margin-bottom: 40px;
+    border-radius: 20px;
+    border: solid yellow;
+}
+
+
+.js-result{
+    font-size: 40px;
+}
+
+.moveemoji{
+    width: 57px;
+
+}
+.js-move{
+    font-size: 30px;
+    margin-top: 10px;
+}
+
+.js-score{
+    font-size: 25px;
+}
+
+.reset-b{
+    font-size: 15px;
+}
