@@ -71,3 +71,43 @@ body{
 .reset-b{
     font-size: 15px;
 }
+
+@media only screen and (max-width: 600px) {
+            .img {
+                width: 150px;
+            }
+
+            .move {
+                font-size: 25px;
+            }
+
+            .js-result {
+                font-size: 30px;
+            }
+
+            .js-move {
+                font-size: 20px;
+            }
+
+            .js-score {
+                font-size: 18px;
+            }
+
+            .reset-b {
+                font-size: 12px;
+            }
+
+            .pick {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+            }
+
+            .pick button {
+                margin: 10px;
+            }
+
+            .bconfetti {
+                padding: 5px;
+            }
+        }
